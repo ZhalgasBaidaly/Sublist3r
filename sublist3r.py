@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 # Sublist3r v1.0
-# By Ahmed Aboul-Ela - twitter.com/aboul3la
+# By Ahmed Aboul-Ela - kazakhfilmstudios.kz
 
 # modules in standard library
 import re
